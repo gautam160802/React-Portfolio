@@ -1,5 +1,5 @@
 import Navbar from "./components/Navbar";
-import logo from "./assets/KevinRushLogo.png";
+import logo from "./assets/kevinRushLogo.png";
 import { FaLinkedin } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
